@@ -8,15 +8,6 @@ WASTE WISE AI is an AI-powered inventory management and food waste reduction pla
 The platform combines Machine Learning, data analytics, and a modern web application to transform inventory data into actionable business insights.
 
 ---
-## 📸 Application Preview
-
-### Dashboard
-
-![WASTE WISE AI Dashboard](docs/screenshots/dashboard.png)
-
-The interactive dashboard provides an overview of inventory,
-sales performance, demand forecasting and sustainability insights.
-
 ## 📌 Project Overview
 
 Food waste and inefficient inventory management can lead to financial losses and unnecessary resource consumption.
