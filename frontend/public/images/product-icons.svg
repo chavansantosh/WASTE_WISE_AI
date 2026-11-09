@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="default" viewBox="0 0 64 64">
+    <rect width="64" height="64" rx="14" fill="#edf6e8"/>
+    <text x="32" y="44" text-anchor="middle" font-size="34">🛒</text>
+  </symbol>
+  <symbol id="milk" viewBox="0 0 64 64">
+    <rect width="64" height="64" rx="14" fill="#edf6e8"/>
+    <text x="32" y="44" text-anchor="middle" font-size="34">🥛</text>
+  </symbol>
+  <symbol id="onion" viewBox="0 0 64 64">
+    <rect width="64" height="64" rx="14" fill="#f7eee2"/>
+    <text x="32" y="44" text-anchor="middle" font-size="34">🧅</text>
+  </symbol>
+  <symbol id="butter" viewBox="0 0 64 64">
+    <rect width="64" height="64" rx="14" fill="#fff5d8"/>
+    <text x="32" y="44" text-anchor="middle" font-size="34">🧈</text>
+  </symbol>
+  <symbol id="paneer" viewBox="0 0 64 64">
+    <rect width="64" height="64" rx="14" fill="#f7f1df"/>
+    <text x="32" y="44" text-anchor="middle" font-size="34">🧀</text>
+  </symbol>
+  <symbol id="cheese" viewBox="0 0 64 64">
+    <rect width="64" height="64" rx="14" fill="#fff5d8"/>
+    <text x="32" y="44" text-anchor="middle" font-size="34">🧀</text>
+  </symbol>
+  <symbol id="yogurt" viewBox="0 0 64 64">
+    <rect width="64" height="64" rx="14" fill="#f2edfa"/>
+    <text x="32" y="44" text-anchor="middle" font-size="34">🥣</text>
+  </symbol>
+  <symbol id="tomato" viewBox="0 0 64 64">
+    <rect width="64" height="64" rx="14" fill="#fff0e9"/>
+    <text x="32" y="44" text-anchor="middle" font-size="34">🍅</text>
+  </symbol>
+  <symbol id="potato" viewBox="0 0 64 64">
+    <rect width="64" height="64" rx="14" fill="#f7eee2"/>
+    <text x="32" y="44" text-anchor="middle" font-size="34">🥔</text>
+  </symbol>
+  <symbol id="carrot" viewBox="0 0 64 64">
+    <rect width="64" height="64" rx="14" fill="#fff0e4"/>
+    <text x="32" y="44" text-anchor="middle" font-size="34">🥕</text>
+  </symbol>
+  <symbol id="cabbage" viewBox="0 0 64 64">
+    <rect width="64" height="64" rx="14" fill="#edf6e8"/>
+    <text x="32" y="44" text-anchor="middle" font-size="34">🥬</text>
+  </symbol>
+  <symbol id="apple" viewBox="0 0 64 64">
+    <rect width="64" height="64" rx="14" fill="#fff0e9"/>
+    <text x="32" y="44" text-anchor="middle" font-size="34">🍎</text>
+  </symbol>
+  <symbol id="banana" viewBox="0 0 64 64">
+    <rect width="64" height="64" rx="14" fill="#fff8d9"/>
+    <text x="32" y="44" text-anchor="middle" font-size="34">🍌</text>
+  </symbol>
+  <symbol id="orange" viewBox="0 0 64 64">
+    <rect width="64" height="64" rx="14" fill="#fff0e4"/>
+    <text x="32" y="44" text-anchor="middle" font-size="34">🍊</text>
+  </symbol>
+  <symbol id="grapes" viewBox="0 0 64 64">
+    <rect width="64" height="64" rx="14" fill="#f2edfa"/>
+    <text x="32" y="44" text-anchor="middle" font-size="34">🍇</text>
+  </symbol>
+  <symbol id="mango" viewBox="0 0 64 64">
+    <rect width="64" height="64" rx="14" fill="#fff5d8"/>
+    <text x="32" y="44" text-anchor="middle" font-size="34">🥭</text>
+  </symbol>
+  <symbol id="bread" viewBox="0 0 64 64">
+    <rect width="64" height="64" rx="14" fill="#f7eee2"/>
+    <text x="32" y="44" text-anchor="middle" font-size="34">🍞</text>
+  </symbol>
+  <symbol id="cake" viewBox="0 0 64 64">
+    <rect width="64" height="64" rx="14" fill="#fff0e9"/>
+    <text x="32" y="44" text-anchor="middle" font-size="34">🍰</text>
+  </symbol>
+  <symbol id="muffins" viewBox="0 0 64 64">
+    <rect width="64" height="64" rx="14" fill="#f7eee2"/>
+    <text x="32" y="44" text-anchor="middle" font-size="34">🧁</text>
+  </symbol>
+  <symbol id="croissant" viewBox="0 0 64 64">
+    <rect width="64" height="64" rx="14" fill="#fff5d8"/>
+    <text x="32" y="44" text-anchor="middle" font-size="34">🥐</text>
+  </symbol>
+  <symbol id="cookies" viewBox="0 0 64 64">
+    <rect width="64" height="64" rx="14" fill="#f7eee2"/>
+    <text x="32" y="44" text-anchor="middle" font-size="34">🍪</text>
+  </symbol>
+  <symbol id="orange-juice" viewBox="0 0 64 64">
+    <rect width="64" height="64" rx="14" fill="#fff0e4"/>
+    <text x="32" y="44" text-anchor="middle" font-size="34">🧃</text>
+  </symbol>
+  <symbol id="apple-juice" viewBox="0 0 64 64">
+    <rect width="64" height="64" rx="14" fill="#fff0e9"/>
+    <text x="32" y="44" text-anchor="middle" font-size="34">🧃</text>
+  </symbol>
+  <symbol id="bottled-water" viewBox="0 0 64 64">
+    <rect width="64" height="64" rx="14" fill="#eaf5fa"/>
+    <text x="32" y="44" text-anchor="middle" font-size="34">💧</text>
+  </symbol>
+  <symbol id="soft-drink" viewBox="0 0 64 64">
+    <rect width="64" height="64" rx="14" fill="#fff0e9"/>
+    <text x="32" y="44" text-anchor="middle" font-size="34">🥤</text>
+  </symbol>
+  <symbol id="lemon-juice" viewBox="0 0 64 64">
+    <rect width="64" height="64" rx="14" fill="#fff8d9"/>
+    <text x="32" y="44" text-anchor="middle" font-size="34">🍋</text>
+  </symbol>
+</svg>

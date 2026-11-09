@@ -1,0 +1,17 @@
+{
+  "target":"estimated_gross_margin_simulated",
+  "features":[
+    "product_id",
+    "days_to_expiry",
+    "quantity_remaining",
+    "discount_pct"
+  ],
+  "dataset_type":"simulated",
+  "train_rows":8000,
+  "test_rows":2000,
+  "test_batches":400,
+  "mae":39.8609333627,
+  "rmse":110.0887711195,
+  "r2":0.9278128194,
+  "warning":"Evaluation uses simulated scenarios. Performance does not establish real-world discount effectiveness."
+}

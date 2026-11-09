@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="110" viewBox="0 0 420 110" role="img" aria-labelledby="title description">
+  <title id="title">Sunrise Mart</title>
+  <desc id="description">Freshness Every Day</desc>
+  <rect x="1" y="1" width="418" height="108" rx="20" fill="#F0FDF4" stroke="#DCFCE7" stroke-width="2"/>
+  <circle cx="57" cy="48" r="20" fill="#F59E0B"/>
+  <path d="M22 65c17-17 36-17 54 0 9-8 18-11 27-9v30H22z" fill="#65A30D"/>
+  <path d="M22 76c18-12 37-12 55 0 9-6 18-8 26-6v17H22z" fill="#064E3B"/>
+  <path d="M56 59c-8-12-19-14-26-8 5 10 14 14 26 12M61 60c4-13 13-19 22-16-2 11-9 18-22 20" fill="#65A30D" stroke="#064E3B" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M59 68c1-5 2-9 4-13" fill="none" stroke="#064E3B" stroke-linecap="round" stroke-width="2"/>
+  <text x="119" y="52" fill="#064E3B" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700">Sunrise Mart</text>
+  <text x="121" y="78" fill="#4D7C0F" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" letter-spacing="1.1">Freshness Every Day</text>
+</svg>

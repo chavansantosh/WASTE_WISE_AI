@@ -1,0 +1,11 @@
+product_id,product_name,category,shelf_life_days,selling_price,unit_cost
+1001,Milk 500ml,Dairy,5,32,24
+1002,Yogurt Cup,Dairy,10,25,17
+1003,Bread Loaf,Bakery,4,40,26
+1004,Paneer 200g,Dairy,7,85,62
+1005,Spinach Pack,Produce,3,30,18
+1006,Tomatoes 1kg,Produce,7,45,28
+1007,Apple 1kg,Produce,14,120,78
+1008,Orange Juice 1L,Beverage,30,95,61
+1009,Fresh Cream,Dairy,8,60,41
+1010,Muffin Pack,Bakery,5,55,34

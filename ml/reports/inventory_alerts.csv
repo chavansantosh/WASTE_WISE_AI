@@ -1,0 +1,6 @@
+product_id,category,date,opening_stock,units_received,units_sold,waste_units,estimated_remaining_stock,days_to_expiry,low_stock_flag,expiry_warning_flag,stock_discrepancy_flag
+1005,Produce,2026-09-27,33,17,30,0,20,0,False,True,False
+1008,Beverage,2026-09-27,34,0,34,0,0,20,True,False,False
+1003,Bakery,2026-09-27,43,0,28,0,15,0,False,True,False
+1009,Dairy,2026-09-27,9,0,9,0,0,6,True,False,False
+1010,Bakery,2026-09-27,32,0,15,0,17,0,False,True,False

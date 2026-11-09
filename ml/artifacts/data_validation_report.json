@@ -1,0 +1,62 @@
+{
+    "status": "PASSED",
+    "file": "C:\\Users\\MY PC\\Naresh IT\\WASTE_WISE_AI\\ml\\data\\raw\\perishable_inventory - perishable_inventory.csv",
+    "rows": 1800,
+    "errors": [],
+    "warnings": [
+        "Fewer than 10% of non-missing waste targets are positive. Evaluate against simple baselines and inspect class imbalance.",
+        "Structural validation does not verify dataset provenance or whether waste measurements are from real stores."
+    ],
+    "checks": {
+        "file_exists": true,
+        "file_readable": true,
+        "dataset_not_empty": true,
+        "required_columns_present": true,
+        "no_missing_required_values": true,
+        "product_ids_present": true,
+        "categories_present": true,
+        "dates_valid": true,
+        "numeric_values_valid": true,
+        "non_negative_quantities": true,
+        "quantities_are_integers": true,
+        "discount_range_valid": true,
+        "stockout_flag_binary": true,
+        "sales_within_available_stock": true,
+        "sales_and_waste_within_available_stock": true,
+        "no_exact_duplicates": true,
+        "unique_product_date": true,
+        "product_category_consistent": true,
+        "waste_target_has_variation": true
+    },
+    "summary": {
+        "row_count": 1800,
+        "column_count": 12,
+        "columns": [
+            "product_id",
+            "date",
+            "category",
+            "opening_stock",
+            "units_received",
+            "units_sold",
+            "unit_price",
+            "discount_pct",
+            "days_to_expiry",
+            "temperature_c",
+            "waste_units",
+            "stockout_flag"
+        ],
+        "date_start": "2026-04-01",
+        "date_end": "2026-09-27",
+        "positive_waste_rows": 131,
+        "zero_waste_rows": 1669,
+        "positive_waste_percentage": 7.28,
+        "exact_duplicate_rows": 0,
+        "repeated_product_date_rows": 0,
+        "missing_values": {},
+        "negative_days_to_expiry_rows": 0,
+        "sales_exceed_available_stock_rows": 0,
+        "sales_plus_waste_exceed_available_stock_rows": 0,
+        "invalid_stockout_flag_rows": 0,
+        "inconsistent_product_category_ids": 0
+    }
+}
